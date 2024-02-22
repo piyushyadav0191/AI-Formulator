@@ -1,4 +1,4 @@
-
+# AI-Formulator
 
 ## Tech Stack 
 
@@ -27,4 +27,4 @@
 - Settings & Upgrade Subscription ✅
 - Analytics  ✅
 - Landing page ✅
-"# AI-Formulator" 
+
